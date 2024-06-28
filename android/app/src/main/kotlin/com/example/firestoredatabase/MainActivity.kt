@@ -1,4 +1,4 @@
-package com.example.socket_group_chat
+package com.example.firestoredatabase
 
 import io.flutter.embedding.android.FlutterActivity
 
